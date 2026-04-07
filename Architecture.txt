@@ -1,0 +1,21 @@
+Frontend (Chat UI)
+        ↓
+API Gateway (Node.js + Express)
+        ↓
+────────────────────────────────
+ Core AI Pipeline
+────────────────────────────────
+ Smart Memory Filter  🔥
+        ↓
+ Embedding Service
+        ↓
+ Memory Service
+        ↓
+ Vector DB (Qdrant)
+────────────────────────────────
+        ↓
+LLM Service (Gemini/OpenAI)
+        ↓
+Final Response
+        ↓
+Frontend
