@@ -70,7 +70,7 @@ export default function Landing() {
               <ArrowRight className="w-5 h-5" />
             </Link>
             <a
-              href="https://github.com"
+              href="https://github.com/Dhruv0359Y/Dupermemory_Hackathon/blob/main/README.md"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary flex items-center gap-2 text-lg"
