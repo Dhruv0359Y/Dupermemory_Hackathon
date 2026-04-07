@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1105,4 +1104,3 @@ git push origin feature/your-feature-name
 =======
 # Dupermemory_Hackathon
 DuperMemory AI is a developer-first platform that enables AI systems to remember, filter, and recall meaningful information intelligently.  Unlike traditional AI systems that either forget everything or store everything blindly, DuperMemory introduces a Smart Memory Layer that decides what to store, stores it semantically
->>>>>>> 8a9035a2d48307510ab288ce4afa711e997cadfd
